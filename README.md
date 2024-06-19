@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Autonomic Mind**
 
-- 🌱 I’m currently learning **Metasploit**
+- 🌱 I’m currently learning **BurpSuite**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
