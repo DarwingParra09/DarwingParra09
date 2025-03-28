@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darwing Parra</h1>
 <h3 align="center">A passionate Backend developer and Cibersecurity from Colombia</h3>
 
-- 🔭 I’m currently working on **Autonomic Mind**
+- 🔭 I’m currently working on **Autodidact**
 
-- 🌱 I’m currently learning **BurpSuite**
+- 🌱 I’m currently learning **Blue Team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
